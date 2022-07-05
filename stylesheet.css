@@ -1,0 +1,16 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    background-color: rgb(0, 125, 132);
+    color: #FFFF;
+    padding: 20px;
+    margin: 3rem;
+    text-align: center;
+    
+}
+
+img {
+    width: 100vw;
+}
